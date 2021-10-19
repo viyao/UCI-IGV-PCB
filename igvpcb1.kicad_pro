@@ -325,6 +325,22 @@
     [
       "16d6dd37-0750-413d-a336-fa0a8946c270",
       "MCU_main"
+    ],
+    [
+      "5417062a-2c0a-4eb1-a915-06a0ec20ee38",
+      "Sensors"
+    ],
+    [
+      "8d82a428-feaf-4518-87b5-c18e985164f5",
+      "Motor Controller"
+    ],
+    [
+      "f05ee547-e32d-4987-a40e-18e5437d043b",
+      "Circuit Protections(SC, Reverse Polarity, Overvoltage, Inrush current)"
+    ],
+    [
+      "328398a8-3e10-4a92-962c-9ac39a57a765",
+      "Battery Charger"
     ]
   ],
   "text_variables": {}
