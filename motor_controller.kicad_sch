@@ -7,4 +7,21 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "Vcc" (shape input) (at 119.38 58.42 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid df692361-7a40-4981-8eea-a10c3f46c09c)
+  )
+  (hierarchical_label "GND" (shape input) (at 119.38 88.9 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 9cd94a9b-4469-4bb5-9aaa-675b1c0ef904)
+  )
+  (hierarchical_label "V+" (shape input) (at 163.83 58.42 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 01d3029b-3f62-4802-9953-039b7265ac00)
+  )
+  (hierarchical_label "V-" (shape input) (at 163.83 66.04 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 6cc8127e-8162-4e9a-a419-8a36f5948dc9)
+  )
 )

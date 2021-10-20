@@ -7,4 +7,17 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "Vin" (shape input) (at 90.17 55.88 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid b46e50f3-572e-4c4f-86e6-4dc0f707c09f)
+  )
+  (hierarchical_label "GND" (shape input) (at 90.17 78.74 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 2362e030-b5ed-40e2-a773-19d44decc238)
+  )
+  (hierarchical_label "Vout" (shape input) (at 135.89 55.88 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 91705414-e796-4f65-a5f1-d7f61886f3d9)
+  )
 )
