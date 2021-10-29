@@ -595,6 +595,18 @@
     )
   )
 
+  (sheet (at 132.08 107.95) (size 46.99 52.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid e7e79c7b-92f9-4117-9d4e-88e251ee87d9)
+    (property "Sheet name" "PD to MCU" (id 0) (at 132.08 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "pd_to_mcu.kicad_sch" (id 1) (at 132.08 160.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 200.66 50.8) (size 86.36 78.74) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -630,6 +642,7 @@
     (path "/8d82a428-feaf-4518-87b5-c18e985164f5" (page "4"))
     (path "/f05ee547-e32d-4987-a40e-18e5437d043b" (page "5"))
     (path "/328398a8-3e10-4a92-962c-9ac39a57a765" (page "6"))
+    (path "/e7e79c7b-92f9-4117-9d4e-88e251ee87d9" (page "7"))
   )
 
   (symbol_instances
@@ -699,6 +712,21 @@
     (path "/16d6dd37-0750-413d-a336-fa0a8946c270/1205aa14-0623-47d2-9772-36e452f02dd3"
       (reference "J?") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "")
     )
+    (path "/328398a8-3e10-4a92-962c-9ac39a57a765/0044b924-bce2-40ae-967d-8f83545bb550"
+      (reference "Q?") (unit 1) (value "SIR186LDP-T1-RE3") (footprint "SamacSys_Parts:SI7141DPT1GE3")
+    )
+    (path "/328398a8-3e10-4a92-962c-9ac39a57a765/03760f51-7700-4488-ba94-50fc4ed6fd2f"
+      (reference "Q?") (unit 1) (value "SIR186LDP-T1-RE3") (footprint "SamacSys_Parts:SI7141DPT1GE3")
+    )
+    (path "/328398a8-3e10-4a92-962c-9ac39a57a765/6b3aa70e-1e2a-44c9-a526-bab4768cc418"
+      (reference "Q?") (unit 1) (value "SIR186LDP-T1-RE3") (footprint "SamacSys_Parts:SI7141DPT1GE3")
+    )
+    (path "/328398a8-3e10-4a92-962c-9ac39a57a765/c1db2469-617c-4f5a-992e-8c67c51120dc"
+      (reference "Q?") (unit 1) (value "SIR186LDP-T1-RE3") (footprint "SamacSys_Parts:SI7141DPT1GE3")
+    )
+    (path "/328398a8-3e10-4a92-962c-9ac39a57a765/f66299b9-283b-4455-80cd-d4bff1576929"
+      (reference "Q?") (unit 1) (value "SIR165DP-T1-GE3") (footprint "SamacSys_Parts:SI7141DPT1GE3")
+    )
     (path "/16d6dd37-0750-413d-a336-fa0a8946c270/30fdc93c-38b6-4132-99cc-7d0c0f46f28f"
       (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -710,6 +738,9 @@
     )
     (path "/16d6dd37-0750-413d-a336-fa0a8946c270/5b57c44b-717e-4e9d-a8e3-1b9ae06e71a7"
       (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
+    )
+    (path "/328398a8-3e10-4a92-962c-9ac39a57a765/43a6c8f5-dd50-40be-957c-a7c1fa16368a"
+      (reference "U?") (unit 1) (value "BQ25720") (footprint "userdef:QFN-32_EP_4x4_Pitch0.4mm")
     )
     (path "/16d6dd37-0750-413d-a336-fa0a8946c270/4b61f4d4-6d8b-4d04-954d-313be85f0769"
       (reference "U?") (unit 1) (value "ATmega32U4-AU") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
