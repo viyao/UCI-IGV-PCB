@@ -714,7 +714,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d067cf68-a8f9-4deb-8ac6-765e229dddb6)
   )
-  (label "ICSP in-circuit serial programming" (at 157.48 62.23 0)
+  (label "ICSP in-circuit serial programming for debug" (at 157.48 62.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ea8924e2-2b78-4ef6-b341-24dd019ab7d1)
   )
