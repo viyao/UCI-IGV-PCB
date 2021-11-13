@@ -341,6 +341,18 @@
     [
       "328398a8-3e10-4a92-962c-9ac39a57a765",
       "Battery Charger"
+    ],
+    [
+      "e7e79c7b-92f9-4117-9d4e-88e251ee87d9",
+      "PD to MCU"
+    ],
+    [
+      "74beb3e3-2dfa-479a-b9f9-bb9d1f911be0",
+      "level_shifter_bidirectional"
+    ],
+    [
+      "d1bb30eb-57f2-47d8-bff7-0d2b8eb44898",
+      "level_shifter_bidirectional1"
     ]
   ],
   "text_variables": {}
