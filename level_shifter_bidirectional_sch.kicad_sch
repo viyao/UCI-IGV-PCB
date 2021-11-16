@@ -361,6 +361,11 @@
     (uuid b1c98997-7b3a-48e7-a87f-849c9695b0a0)
   )
 
+  (label "I2C level shifter" (at 175.26 110.49 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 61a84de5-52ed-4a59-bdab-b62bb12fc682)
+  )
+
   (hierarchical_label "3V3_Logic" (shape input) (at 123.19 111.76 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 3539f470-1de4-47c2-9718-fe40d78fb520)
